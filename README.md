@@ -1,3 +1,4 @@
 # calculator-demo
-This is my first git-repository
-.author-sanzida
+This is my first Git-Repository
+<br>
+Author-sanzida
